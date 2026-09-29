@@ -1,0 +1,32 @@
+{
+	"node": "n8n-nodes-scrapeunblocker-yahoo-search.yahooSearchScraper",
+	"nodeVersion": "1.0",
+	"codexVersion": "1.0",
+	"categories": [
+		"Marketing",
+		"Data & Storage"
+	],
+	"resources": {
+		"credentialDocumentation": [
+			{
+				"url": "https://github.com/ScrapeUnblocker/n8n-nodes-scrapeunblocker-yahoo-search#credentials"
+			}
+		],
+		"primaryDocumentation": [
+			{
+				"url": "https://github.com/ScrapeUnblocker/n8n-nodes-scrapeunblocker-yahoo-search#readme"
+			}
+		]
+	},
+	"alias": [
+		"yahoo",
+		"serp",
+		"search",
+		"seo",
+		"ads",
+		"rankings",
+		"keywords",
+		"apify",
+		"scrapeunblocker"
+	]
+}
